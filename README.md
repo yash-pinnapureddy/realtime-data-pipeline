@@ -1,4 +1,4 @@
-# 🏗️ Enterprise Real-Time Data Pipeline
+# 🏗️Real-Time Data Pipeline
 
 A production-ready real-time data pipeline leveraging Kafka, Avro, Spark Structured Streaming, and Snowflake. Built for reliability, scalability, and performance in modern data engineering environments.
 
