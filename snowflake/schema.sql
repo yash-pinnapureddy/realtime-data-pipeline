@@ -1,0 +1,1 @@
+-- Snowflake schema setup placeholder

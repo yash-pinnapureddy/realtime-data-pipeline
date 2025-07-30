@@ -1,0 +1,7 @@
+confluent-kafka[avro]==1.9.2
+fastavro==1.9.1
+loguru==0.7.2
+python-dotenv==1.0.1
+pyspark==3.4.1
+snowflake-connector-python==3.0.0
+snowflake-sqlalchemy==1.4.7
